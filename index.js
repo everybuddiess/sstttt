@@ -591,7 +591,7 @@ if (reversed == null) { reversed = false; }
 	// Layer_6
 	this.instance = new lib.Symbol5("synched",0);
 	this.instance.setTransform(384.2,183.85,1,1,0,0,0,124.2,0);
-	this.instance.alpha = 0.5391;
+	this.instance.alpha = 0.7891;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(2));
 
@@ -618,9 +618,9 @@ lib.properties = {
 	color: "#000066",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1782368325361", id:"index_atlas_1"},
-		{src:"images/index_atlas_2.png?1782368325362", id:"index_atlas_2"},
-		{src:"images/index_atlas_3.png?1782368325362", id:"index_atlas_3"}
+		{src:"images/index_atlas_1.png?1782368471933", id:"index_atlas_1"},
+		{src:"images/index_atlas_2.png?1782368471933", id:"index_atlas_2"},
+		{src:"images/index_atlas_3.png?1782368471934", id:"index_atlas_3"}
 	],
 	preloads: []
 };
